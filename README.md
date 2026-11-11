@@ -1,2 +1,2 @@
 # classic-mq
-testing classic
+test 2
