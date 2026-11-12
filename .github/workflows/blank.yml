@@ -35,6 +35,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          
-      - name: sleep_180
-        run: sleep 180 
